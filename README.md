@@ -1,9 +1,5 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFF42B,100:37F33D&height=300&section=header&text=capsule%20render&fontSize=90)
 
-<!--
-**Soomin0515/Soomin0515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
